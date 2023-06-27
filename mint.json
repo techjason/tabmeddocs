@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Tabmed Documentation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -11,6 +11,10 @@
     "light": "#81D7F7",
     "dark": "#004E7A"
   },
+  "modeToggle": {
+    "default": "light",
+    "isHidden": true
+  },  
   "topbarLinks": [
     {
       "name": "Documentation",
