@@ -14,7 +14,7 @@
   "modeToggle": {
     "default": "light",
     "isHidden": true
-  },  
+  },
   "topbarLinks": [
     {
       "name": "Documentation",
@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Changelog",
+      "url": "changelog"
     }
   ],
   "navigation": [
@@ -41,16 +41,16 @@
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
+      "group": "Change log",
+      "pages": ["changelog/authentication"]
     },
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
+        "changelog/endpoint/get",
+        "changelog/endpoint/create",
+        "changelog/endpoint/update",
+        "changelog/endpoint/delete"
       ]
     }
   ],
